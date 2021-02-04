@@ -4,3 +4,8 @@ header {
 h2 {
   font-size: 12px;
 }
+#next {
+  position: fixed;
+  bottom: 50px;
+  right: 5%;
+}
