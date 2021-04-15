@@ -1,3 +1,4 @@
+
 // DOM elements
 const nextBtn = document.getElementById("next");
 
